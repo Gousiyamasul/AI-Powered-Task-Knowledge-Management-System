@@ -1,0 +1,2 @@
+skills: HTML,CSS,JavaScript,React.js
+backend: Flask
