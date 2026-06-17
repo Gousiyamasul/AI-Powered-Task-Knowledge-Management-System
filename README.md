@@ -49,6 +49,7 @@ project/
 - Python 3.11+
 - Node.js 18+
 - MySQL 8+
+- React.js
 
 ### 1 — Database
 
